@@ -1,4 +1,4 @@
-// Service.cpp: implementation of the CService class.
+// Service.cpp: implementation of the CS123455666
 //
 //////////////////////////////////////////////////////////////////////
 
