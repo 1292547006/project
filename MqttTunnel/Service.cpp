@@ -1,5 +1,5 @@
 // Service.cpp: implementation of the CService class.
-//thingslabs  1234
+//thingslabs  123478
 //////////////////////////////////////////////////////////////////////
 
 #include "stdafx.h"
